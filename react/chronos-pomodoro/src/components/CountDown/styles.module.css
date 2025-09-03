@@ -1,0 +1,9 @@
+ .container{
+  /* font-size: 16rem; */
+  font-size: clamp(8rem, 25vw, 16rem); /*Deixa o tamanho da fonte responsivo. Min 8ren (80px) max 16rem(160px)*/
+  font-weight: bold;
+  text-align: center;
+  line-height: 1.3;
+ }
+
+ 
